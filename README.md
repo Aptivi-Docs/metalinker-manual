@@ -1,11 +1,11 @@
 ---
-icon: hand-wave
 description: Welcome to Metalinker!
+icon: hand-wave
 ---
 
 # Welcome
 
-Welcome to Metalinker! It's a C# library that allows you to parse any and all of the Metalink files that are built using Metalink 3.0 or 4.0 compliant generators. This is useful to give your download managers a boost. To use this library, go to any page in the left side of the screen.
+Metalinker is a C# library that allows you to parse any and all of the Metalink files that are built using Metalink 3.0 or 4.0 compliant generators. This is useful to give your download managers a boost. To use this library, go to any page in the left side of the screen.
 
 ## Installation
 
